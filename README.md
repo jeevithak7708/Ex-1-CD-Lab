@@ -94,17 +94,16 @@ int main() {
 }
 
 ```
+
+
+
+
 # OUTPUT
 
+
+
+
 <img width="666" height="452" alt="Screenshot 2026-11-02 103840" src="https://github.com/user-attachments/assets/aa1ca446-c49d-4c90-8c24-160314443eeb" />
-
-
-
-
-
-
-
-
 
 
 <img width="676" height="370" alt="Screenshot 2026-11-02 103959" src="https://github.com/user-attachments/assets/048a5b48-0a50-4924-8402-6752c99e28b9" />
