@@ -2,6 +2,12 @@
 # Devolped By : JEEVITHA K
 # Register Number : 212225040149
 # Date : 02.11.2026
+
+
+
+
+
+
 # AIM :
 ## To write a C program to implement a symbol table.
 # ALGORITHM
@@ -12,7 +18,15 @@
 5.	While reading, the input symbol and memory address are inserted into the symbol table.
 6.	The steps are repeated till ‘$’ is reached.
 7.	To reach a variable, enter the variable to be searched and the symbol table has been checked for the corresponding variable, the variable along with its address is displayed as a result.
-8.	Stop the program. 
+8.	Stop the program.
+
+
+
+
+
+
+
+
 # PROGRAM
 
 ```
